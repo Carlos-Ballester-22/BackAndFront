@@ -1,0 +1,28 @@
+.Home {
+    display: flex;
+    justify-content: center; 
+    align-items: center;      
+    background-image: url('https://images.wallpaperscraft.com/image/single/lamp_electricity_minimalism_128251_1280x720.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%; 
+    height: 100vh;
+}
+
+.cards {
+    background-color: aqua;
+    margin: 10px;
+    padding: auto;
+    border-radius: 0.4rem;
+}
+
+.divCard {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: auto;
+    border-radius: 0.5rem;
+
+}
