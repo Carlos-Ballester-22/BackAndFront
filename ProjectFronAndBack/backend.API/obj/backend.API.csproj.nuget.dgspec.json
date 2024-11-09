@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Git\\Files\\BackAndFront\\ProjectFronAndBack\\backend.API\\backend.API.csproj": {}
+    "D:\\Projects\\Personal\\BackAndFront\\ProjectFronAndBack\\backend.API\\backend.API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Git\\Files\\BackAndFront\\ProjectFronAndBack\\backend.API\\backend.API.csproj": {
+    "D:\\Projects\\Personal\\BackAndFront\\ProjectFronAndBack\\backend.API\\backend.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Git\\Files\\BackAndFront\\ProjectFronAndBack\\backend.API\\backend.API.csproj",
+        "projectUniqueName": "D:\\Projects\\Personal\\BackAndFront\\ProjectFronAndBack\\backend.API\\backend.API.csproj",
         "projectName": "backend.API",
-        "projectPath": "D:\\Projects\\Git\\Files\\BackAndFront\\ProjectFronAndBack\\backend.API\\backend.API.csproj",
-        "packagesPath": "C:\\Users\\Karvlox\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Git\\Files\\BackAndFront\\ProjectFronAndBack\\backend.API\\obj\\",
+        "projectPath": "D:\\Projects\\Personal\\BackAndFront\\ProjectFronAndBack\\backend.API\\backend.API.csproj",
+        "packagesPath": "C:\\Users\\salet\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Personal\\BackAndFront\\ProjectFronAndBack\\backend.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Karvlox\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\salet\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
